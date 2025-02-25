@@ -17,7 +17,7 @@
 
 - <b>Windows 10</b> 
 - <b>Kali Linux</b> 
-
+<!--
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -49,7 +49,7 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
+
  ```diff
 - text in red
 + text in green
