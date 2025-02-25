@@ -1,6 +1,6 @@
 <h1>PKI and Network Steganograpny</h1>
 
- ### [YouTube Demonstration - The Encryptinator](https://youtu.be/wIjI5Vcx7C4)
+ ### [YouTube Demonstration - The Encryptionator](https://youtu.be/wIjI5Vcx7C4)
 
 <h2>Description</h2>
 
