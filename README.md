@@ -1,6 +1,6 @@
 <h1>Encryption and Network Steganography</h1>
 <p align="center">
-<img src="https://i.imgur.com/TBAjI2l.png" height="350%" width="35%"/>
+<img src="https://i.imgur.com/TBAjI2l.png" height="50%" width="50%"/>
 <br />
 </p>
 
