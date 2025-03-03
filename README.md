@@ -4,7 +4,9 @@
 
 <h2>Description</h2>
 
-- User Interface <img src="https://imgur.com/a/azTEgND"/>
+- User Interface <br/>
+<img src="https://imgur.com/a/afDLxDb.png" height="80%" width="80%"/>
+<br />
 
 <h2>Languages and Utilities Used</h2>
 
