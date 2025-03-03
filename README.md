@@ -15,7 +15,7 @@ This tool demonstrates basic use of PKI and encryption and should not be used fo
 
 <h2>Description</h2>
 
-A simple GUI-based encryption and decryption tool using RSA public-key cryptography.<br/><br/>
+- A simple GUI-based encryption and decryption tool using RSA public-key cryptography.<br/><br/>
 
 <p align="center">
 How It Works Step by Step <br/> <br/>
