@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-https://imgur.com/a/azTEgND
+- User Interface <img src="https://imgur.com/a/azTEgND"/>
 
 <h2>Languages and Utilities Used</h2>
 
