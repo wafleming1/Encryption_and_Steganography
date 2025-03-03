@@ -1,12 +1,17 @@
 <h1>PKI and Network Steganograpny</h1>
+<p align="center">
+<img src="https://i.imgur.com/TBAjI2l.png" height="50%" width="50%"/>
+<br />
+</p>
 
- ### [YouTube Demonstration](https://youtu.be/wIjI5Vcx7C4)
+ [YouTube Demonstration](https://youtu.be/wIjI5Vcx7C4)
+
 
 <h2>Description</h2>
 
-- User Interface <br/>
-<img src="https://imgur.com/a/afDLxDb.png" height="80%" width="80%"/>
+<p align="center">
 <br />
+</p>
 
 <h2>Languages and Utilities Used</h2>
 
